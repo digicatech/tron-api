@@ -10,13 +10,13 @@ A PHP API for interacting with the Tron Protocol
 ## Install
 
 ```bash
-> composer require iexbase/tron-api --ignore-platform-reqs
+> composer require digicatech/tron-api --ignore-platform-reqs
 ```
 ## Requirements
 
 The following versions of PHP are supported by this version.
 
-* PHP 7.4
+* PHP 8.1
 
 ## Example Usage
 
